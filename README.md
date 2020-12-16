@@ -1,3 +1,4 @@
 # groupWorkJWD
 This is JWD First collaborative Work
-my addition
+I read it and it looks good. 
+
